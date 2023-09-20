@@ -1,7 +1,7 @@
 skip_validate: true
 image:
   name: rancher/hardened-build-base
-  tag: v1.16.6b7
+  tag: v1.20.4b11
 charts_url: https://rke2-charts.rancher.io/index.yaml
 cloud_providers: []
 networking": 

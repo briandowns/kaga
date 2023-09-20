@@ -1,5 +1,5 @@
 ARG KUBERNETES_VERSION=dev
-FROM rancher/hardened-build-base:v1.16.6b7 AS build
+FROM rancher/hardened-build-base:v1.20.4b11 AS build
 RUN apk --no-cache add \
     bash \
     curl \
